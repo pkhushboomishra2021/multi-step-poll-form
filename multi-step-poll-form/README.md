@@ -85,3 +85,7 @@ Custom animations for carousel and options.
 Summary slide showing user responses.
 Integration with a mock API using MSW.
 Unit tests for components using React Testing Library.
+
+
+With these steps, we have a complete setup for creating a multi-step poll form with a custom vertical carousel, state management, mock API integration, and unit tests.
+
