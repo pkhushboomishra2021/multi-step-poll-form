@@ -68,3 +68,20 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+Project Structure
+
+src/: Contains the source code.
+components/: React components.
+features/: Redux slices.
+mocks/: Mock API configuration.
+App.js: Main App component.
+index.js: Entry point of the application.
+store.js: Redux store configuration.
+
+Features
+Multi-step poll form with vertical carousel.
+Custom animations for carousel and options.
+Summary slide showing user responses.
+Integration with a mock API using MSW.
+Unit tests for components using React Testing Library.
